@@ -46,7 +46,7 @@ class OmikujiViewController: UIViewController {
         repeat {
             
             //0,1,2,3の数値をランダムに算出（乱数）　Int.random(in: 0..<4)
-            newNumber = Int.random(in: 0..<4)
+            newNumber = Int.random(in: 0..<5)
             
             //前回と同じ結果の時は、再度ランダムに数値を出す
             //異なる結果の時は、repeatを抜ける
@@ -73,8 +73,12 @@ class OmikujiViewController: UIViewController {
             label.text = "おーし。末吉だな。。"
             image.image = UIImage(named:"Suekiti")
             
-        }
+        } else if number == 4 { //if、numberが4なら凶
+            
+            label.text = "...凶..だ..お.おつかれ~..."
+            image.image = UIImage(named:"kyo")
     }
     
 }
     
+}
