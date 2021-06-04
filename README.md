@@ -5,4 +5,6 @@
 おみくじ　App (Storyboard)
 
 
+## ScreenShot
+
 <img src="https://user-images.githubusercontent.com/83286066/120260015-fa66ec00-c2cf-11eb-92f4-05a07bad1bbd.png" width="250">　<img src="https://user-images.githubusercontent.com/83286066/120260022-fdfa7300-c2cf-11eb-843b-4429b57fb053.png" width="250">　<img src="https://user-images.githubusercontent.com/83286066/120260027-005ccd00-c2d0-11eb-810e-b39535cfc57c.png" width="250">
